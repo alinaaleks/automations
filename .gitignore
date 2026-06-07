@@ -23,6 +23,7 @@ ENV/
 # ========================
 **/data/
 output_data.*
+~$*
 
 # ========================
 # OS files (lightweight)
