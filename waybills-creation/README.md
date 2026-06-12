@@ -1,6 +1,12 @@
 # TTN Automation Tool (Excel + VBA)
 
----
+<p>
+  <img 
+    src="macro-working.gif" 
+    alt="Иллюстрация создания накладных" 
+    width="600" 
+    height="auto">
+</p>
 
 # 🇷🇺 Описание
 
