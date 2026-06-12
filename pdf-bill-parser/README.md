@@ -1,12 +1,20 @@
 ## 📄 PDF-парсер коммунальных квитанций / Utility Bill Parser
 
+<p>
+  <img 
+    src="/pdf-parser-demo.gif" 
+    alt="Иллюстрация работы PDF-парсера" 
+    width="600" 
+    height="auto">
+</p>
+
 [ → ссылка на описание Проекта](https://alinaaleks.github.io/project/pdf-parser-ru/)
 
 ---
 
 ### 🇷🇺 Описание
 
-Этот проект автоматически извлекает данные из PDF-квитанций разных поставщиков коммунальных услуг и формирует единый структурированный файл для анализа.
+Этот инструмент автоматически извлекает данные из PDF-квитанций разных поставщиков коммунальных услуг и формирует единый структурированный файл для анализа.
 
 ### 🔧 Что делает:
 
@@ -35,7 +43,7 @@
 
 ### 🇬🇧 Description
 
-This project automatically extracts data from PDF utility bills from different providers and converts it into a unified structured dataset for analysis.
+This tool automatically extracts data from PDF utility bills from different providers and converts it into a unified structured dataset for analysis.
 
 ### 🔧 What it does:
 
