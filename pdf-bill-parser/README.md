@@ -2,7 +2,7 @@
 
 <p>
   <img 
-    src="/pdf-parser-demo.gif" 
+    src="pdf-parser-demo.gif" 
     alt="Иллюстрация работы PDF-парсера" 
     width="600" 
     height="auto">
