@@ -12,7 +12,7 @@ def get_base_dir():
     return Path().resolve()
 
 base_dir = get_base_dir()
-pdf_folder = base_dir / "data" / "2026-03"
+pdf_folder = base_dir / "data" / "2026-02"
 
 # ------------------ CONFIG ------------------
 
